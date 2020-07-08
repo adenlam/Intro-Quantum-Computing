@@ -1,2 +1,4 @@
 # Intro-Quantum-Computing
-Files used for Quantum Computing Project
+This repository includes the notebooks that are currently in progress.
+
+
