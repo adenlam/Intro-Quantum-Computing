@@ -17,7 +17,10 @@
 1. Remote access of QuTools
 
 ### Quantum Fourier Transform
-
+- Computational requirements
+- Physics Topics
+1. Quantum mechanics
+2. Braket Notation
 
 ### Variational Quantum Eigensolver Introduction (VQE)
 ### VQE for Transverse Ising Model
@@ -27,4 +30,11 @@
 
 ### Quantum Simulation of Schrodinger Equation Introduction (QSSE)
 ### QSSE for Quantum Tunnelling
+- Computational requirements
+1. Qiskit
+- Physics Topics
+1. Quantum mechanics
+2. Time Evolution
+3. QFT implementation
+
 ### QSSE for Quantum Harmonic Oscillator
