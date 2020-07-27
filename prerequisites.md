@@ -24,6 +24,14 @@
 
 ### Variational Quantum Eigensolver Introduction (VQE)
 ### VQE for Transverse Ising Model
+- Computational requirements
+1. Qiskit 
+2. Exact Diagonalization (For classical comparison)
+3. Optimization
+-Physics Topics
+1. Quantum Mechanics
+2. Braket Notation
+
 ### VQE for molecules
 - Computational requirements
 1. QFT implementation
